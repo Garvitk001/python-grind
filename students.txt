@@ -1,0 +1,6 @@
+Garvit Khuteta,22,8.3,Jaipur
+Rahul Sharma,21,7.5,Delhi
+Priya Singh,22,9.2,Mumbai
+Amit Verma,23,6.8,Jaipur
+Deepak Gupta,21,7.8,Delhi
+Neha Joshi,22,8.9,Mumbai

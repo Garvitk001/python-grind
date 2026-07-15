@@ -15,10 +15,10 @@
 | Day 1 | Variables, DataTypes, Operators, Conditions, Loops, Functions, Strings | Student Result Management System | ✅ Done |
 | Day 2 | Lists, Tuples, Sets, Dictionaries, List Comprehension | Zomato Restaurant Analyser, IPL Player Analyser | ✅ Done |
 | Day 3 | Functions Deep Dive (*args/**kwargs), String Mastery, OOP, Inheritance | Password Validator, Bank Account System, Library Management System | ✅ Done |
-| Day 4 | DSA - Sorting, Searching, Stacks, Queues | 🔄 Upcoming |
-| Day 5 | File Handling, Error Handling, Modules | 🔄 Upcoming |
-| Day 6 | Pandas, NumPy, Matplotlib | 🔄 Upcoming |
-| Day 7 | Mock Test, Revision, Final Project | 🔄 Upcoming |
+| Day 4 | DSA - Sorting, Searching, Stacks, Queues | ✅ Done |
+| Day 5 | File Handling, Error Handling, Modules | ✅ Done |
+| Day 6 | Pandas, NumPy, Matplotlib | ✅ Done |
+| Day 7 | Mock Test, Revision, Final Project | ✅ Done |
 
 ## 🏗️ Projects Built
 | Project | Concepts Used | Day |

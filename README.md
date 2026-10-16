@@ -1,71 +1,68 @@
-# 🐍 Python Grind - 7 Days Challenge
+# 🐍 Python Grind — 7-Day Intensive Sprint
 
-> No AI help. No copy paste. Pure grind.
-> Tier 3 college → Industry ready Python
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python: 3.x](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![Status: Complete](https://img.shields.io/badge/Status-Complete%20(7%2F7)-brightgreen.svg)](#-progress)
 
-## 👨‍💻 About
-- **Name:** Garvit Khuteta
-- **College:** AI & Data Science, Jaipur
-- **Goal:** Data Science / ML Engineer
-- **Start Date:** Day 1 of 60-day job prep sprint
+> Rigorous hands-on Python foundation sprint — from foundational syntax and object-oriented programming to data structures, algorithms, and exploratory data analysis.
 
-## 📅 Progress
-| Day | Topics | Projects | Status |
-|-----|--------|---------|--------|
-| Day 1 | Variables, DataTypes, Operators, Conditions, Loops, Functions, Strings | Student Result Management System | ✅ Done |
-| Day 2 | Lists, Tuples, Sets, Dictionaries, List Comprehension | Zomato Restaurant Analyser, IPL Player Analyser | ✅ Done |
-| Day 3 | Functions Deep Dive (*args/**kwargs), String Mastery, OOP, Inheritance | Password Validator, Bank Account System, Library Management System | ✅ Done |
-| Day 4 | DSA - Sorting, Searching, Stacks, Queues | Merit List Generator | ✅ Done |
-| Day 5 | File Handling, Error Handling, Modules, Recursion | Employee Management System | ✅ Done |
-| Day 6 | NumPy, Pandas, Matplotlib, EDA | IPL Analysis, Titanic EDA | ✅ Done |
-| Day 7 | Mock Test, Interview Questions, Titanic EDA | Titanic Survival Analysis | ✅ Done |
+---
 
-## 🏗️ Projects Built
-| Project | Concepts Used | Day |
-|---------|--------------|-----|
-| Student Result Management System | Conditions, Loops, Functions | Day 1 |
-| Zomato Restaurant Analyser | Lists, Dicts, List Comprehension | Day 2 |
-| IPL Player Analyser | Functions, Dictionaries, Loops | Day 2 |
-| Password Validator | Strings, Functions, any() | Day 3 |
-| Bank Account System | OOP, Classes, Methods | Day 3 |
-| Library Management System | OOP, Inheritance, super() | Day 3 |
-| Merit List Generator | DSA, Sorting, Binary Search, Stack, Queue | Day 4 |
-| Employee Management System | OOP, File Handling, CSV, Error Handling | Day 5 |
-| IPL Data Analysis | Pandas, NumPy, Matplotlib | Day 6 |
-| Titanic Survival Analysis | EDA, Data Cleaning, Visualization | Day 7 |
+## 👨‍💻 Overview
+- **Engineer:** Garvit Khuteta
+- **Degree:** B.Tech in Artificial Intelligence & Data Science, Jaipur
+- **Goal:** Data Science / Machine Learning Engineer
+- **Next Sprint:** [SQL Grind →](https://github.com/Garvitk001/sql-grind)
+
+---
+
+## 📅 Daily Curriculum & Milestone Projects
+
+| Day | Core Topics & Competencies | Practical Project Built | Status |
+|:---|:---|:---|:---:|
+| **Day 1** | Variables, Data Types, Control Flow, Functions, String Manipulation | Student Result Management System | ✅ Done |
+| **Day 2** | Lists, Tuples, Sets, Dictionaries, Dictionary & List Comprehensions | Zomato Restaurant Analyser & IPL Player Analyser | ✅ Done |
+| **Day 3** | Variable-length Arguments (`*args`/`**kwargs`), OOP, Encapsulation & Inheritance | Bank Account System & Library Management System | ✅ Done |
+| **Day 4** | Data Structures & Algorithms (Linear/Binary Search, Bubble/Insertion Sort, Stacks, Queues) | Merit List Generator | ✅ Done |
+| **Day 5** | File I/O, Exception Handling, Custom Modules, Recursion | Employee Management System | ✅ Done |
+| **Day 6** | Numerical Computing with NumPy, Data Manipulation with Pandas, Matplotlib EDA | IPL Historical Analysis & Titanic EDA | ✅ Done |
+| **Day 7** | Comprehensive Assessment, Edge Case Handling, Exploratory Data Analysis | End-to-End Titanic Survival Analysis | ✅ Done |
+
+---
 
 ## 🛠️ Skills Covered
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![OOP](https://img.shields.io/badge/OOP-Inheritance-green)
-![DSA](https://img.shields.io/badge/DSA-Complete-orange)
-![Pandas](https://img.shields.io/badge/Pandas-Complete-yellow)
-![NumPy](https://img.shields.io/badge/NumPy-Complete-lightblue)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Complete-red)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Days](https://img.shields.io/badge/Days%20Completed-7%2F7-green)
 
-## 📂 Structure
-```
+* **Core Programming:** Functions, Recursion, List Comprehensions, Error Handling, File I/O
+* **Object-Oriented Design:** Classes, Inheritance, Encapsulation, Polymorphism, Modular Architecture
+* **Data Structures & Algorithms:** Search Algorithms, Sorting Algorithms, Stacks, Queues
+* **Data Science Libraries:** NumPy Arrays & Matrix Ops, Pandas Series/DataFrames, Matplotlib Visualizations
+
+---
+
+## 📂 Repository Structure
+
+```text
 python-grind/
-├── Day1.py     → Basics, Conditions, Loops, Functions
-├── Day2.ipynb  → Lists, Tuples, Sets, Dictionaries
-├── Day3.ipynb  → OOP, Inheritance, String Mastery
-├── Day4.ipynb  → DSA - Sorting, Searching, Stack, Queue
-├── Day5.ipynb  → File Handling, Error Handling, Modules
-├── Day6.ipynb  → NumPy, Pandas, Matplotlib, EDA
-├── Day7.ipynb  → Mock Test, Titanic EDA
-├── utils.py    → Custom reusable module
+├── Day1.py     # Basics, conditions, loops, functions
+├── Day2.ipynb  # Lists, tuples, sets, dictionaries, comprehensions
+├── Day3.ipynb  # OOP, inheritance, string mastery
+├── Day4.ipynb  # DSA: sorting, searching, stack, queue
+├── Day5.ipynb  # File handling, custom error handling, modules
+├── Day6.ipynb  # NumPy arrays, Pandas dataframes, Matplotlib EDA
+├── Day7.ipynb  # Comprehensive evaluation, Titanic EDA
+├── utils.py    # Custom reusable helper module
+├── LICENSE
 └── README.md
 ```
 
-## 💡 Rules I Follow
-- ❌ No AI to write code
-- ❌ No copy paste
-- ✅ Write every line myself
-- ✅ Push to GitHub every day
-- ✅ Industry style naming always
+---
 
-## 🎯 Next Steps
-- 🗄️ SQL — Week 2 (Day 8-14)
-- 🤖 ML Basics — Week 3 (Day 15-21)
-- 🚀 Projects + Apply — Week 4 (Day 22-30)
+## 🎯 Engineering Discipline
+* Pure hands-on problem solving from first principles
+* Daily version control commits to track incremental progression
+* Adherence to clean Python naming conventions (PEP 8)
+
+---
+
+## 📄 License
+This project is open-source and available under the [MIT License](LICENSE).
